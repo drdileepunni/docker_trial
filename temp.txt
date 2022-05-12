@@ -1,0 +1,11 @@
+REPOSITORY                                      TAG       IMAGE ID       CREATED          SIZE
+<none>                                          <none>    5d2741b923f3   31 minutes ago   1.09GB
+public.ecr.aws/lambda/python                    3.8       8cf205865565   2 days ago       620MB
+<none>                                          <none>    e9a838c5a251   7 months ago     72.6MB
+<none>                                          <none>    d5ca61f03446   7 months ago     72.6MB
+<none>                                          <none>    9da83b8aca73   7 months ago     72.6MB
+<none>                                          <none>    c3179a146147   7 months ago     72.6MB
+docker_app                                      latest    c81a99fa8598   16 months ago    1.09GB
+docker_webpack                                  latest    0b70fc2a82ae   16 months ago    1.09GB
+snomedinternational/snowstorm                   5.0.2     cef6e14af883   20 months ago    353MB
+docker.elastic.co/elasticsearch/elasticsearch   7.7.0     7ec4f35ab452   2 years ago      757MB
